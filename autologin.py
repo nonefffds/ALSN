@@ -10,8 +10,9 @@ driver = webdriver.Chrome(options=opt)          #创建浏览器对象
 driver.get('login.html')   #打开网页
 # driver.maximize_window()                      #最大化窗口
 time.sleep(2)                                   #加载等待
- 
-driver.find_element_by_xpath("/html/body/div/div/div[1]/div[1]/input").send_keys("username")    #利用xpath查找元素进行输入文本
+
+#把Username、Password改为对应自己的账号密码
+driver.find_element_by_xpath("/html/body/div/div/div[1]/div[1]/input").send_keys("username")    #利用xpath查找元素进行输入文本 
 driver.find_element_by_xpath("/html/body/div/div/div[1]/div[2]/input").send_keys("password")
 
 
