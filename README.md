@@ -3,7 +3,7 @@ Some thought &amp; application on automatically login to school dorm network(whi
 
 This is a simply method of emulating interaction with [ehaut's web client](https://github.com/ehaut/ehaut).
 
-Not tested 'cause I'm home, and this should only be functional/operable in Henan University of Henan(HAUT).
+Not tested 'cause I'm home, and this should only be functional/operable in Henan University of Technology(HAUT).
 
 ## Usage
 
