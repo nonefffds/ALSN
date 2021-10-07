@@ -1,4 +1,6 @@
-# AutoLoginSchoolNet(ALSN)
+# AutoLoginSchoolNet(ALSN) for HAUT's Srun3K
+
+## !!!!! DO NOT USE THE OFFICIAL SRUN3K CLIENT !!!!! IT BROKES.
 
 Here's some thought and applications on automatically login to school dorm network(which using srun3k server).
 
@@ -31,7 +33,7 @@ Methods can might be taken:
 
 1. make the crontab time tight
 2. manually do the ``python3 ./autologin.py``
-3. manually open the browser and using whether the ehaut's webpage or the index.html already provided here.
+3. manually open the browser and using the ehaut's web client or the index.html already provided here.
 
 ## Credits & References
 
