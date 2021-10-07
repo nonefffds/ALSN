@@ -10,6 +10,10 @@ Theoretically works, but not tested 'cause I'm home due to the pandemic staying 
 
 Chinese Version of this `readme.md` is not presenting, maybe I'll write it later.
 
+## DISCLAIMER
+
+The owner of this repository is a student from HAUT, but not affliate with the EHAUT project. Haven't joined any Computer-related department/clubs/groups. I write things only for myself, use at your own risk.
+
 ## Usage
 
 Git pull
