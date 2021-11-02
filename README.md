@@ -12,9 +12,21 @@ Chinese Version of this `readme.md` is not presenting, maybe I'll write it later
 
 ## DISCLAIMER
 
-The owner of this repository is a student from HAUT, but not affliate with the EHAUT project. Haven't joined any Computer-related department/clubs/groups. I write things only for myself, use at your own risk.
+The owner of this original repository(nonefffds/ALSN) is a student from HAUT, but not affliate with the EHAUT project(ehaut/ehaut). 
+
+Also I Haven't joined any Computer-related department/clubs/groups. I write things only for myself, use/reference at your own risk.
 
 ## Usage
+
+### Pre-configuration
+
+You need Python3 & pip3.
+
+And install selenium by `pip install selenium`
+
+The python & selenium configuration is not presented.
+
+### Then
 
 Git pull
 
@@ -22,7 +34,7 @@ Add a crontab of running the Autoconnect.sh
 
 All set.
 
-**I'll try to implementing a better way of using this, like writing a deamon (systemd) for it. But all after I get back to school.**
+**I'll try to implementing a better way of using this, like writing a deamon (systemd) for it, later, period.**
 
 ## TO-DO
 
